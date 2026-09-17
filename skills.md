@@ -1,1 +1,4 @@
+- Python
+- Playing guitar
+- Knitting
 - Problem Solving
